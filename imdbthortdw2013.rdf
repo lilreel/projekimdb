@@ -7,7 +7,7 @@
 <rdf:Description
 	rdf:about ="https://en.wikipedia.org/wiki/Thor:_The_Dark_World">
 	<dc:title>Thor : The Dark World</dc:title>
-	<gen:img>https://upload.wikimedia.org/wikipedia/id/7/7e/Thor_-_The_Dark_World_poster.jpg</gen:img>
+	<dc:img>https://upload.wikimedia.org/wikipedia/id/7/7e/Thor_-_The_Dark_World_poster.jpg</dc:img>
 	<dc:abstract>Thor: The Dark World" dari Marvel melanjutkan petualangan Thor, the Mighty Avenger, saat ia berjuang untuk menyelamatkan Bumi dan semua Sembilan Alam dari musuh bayangan yang mendahului alam semesta itu sendiri. Setelah "Thor" Marvel dan "Marvel's The Avengers," Thor berjuang untuk memulihkan ketertiban di seluruh kosmos ... tetapi ras kuno yang dipimpin oleh Malekith yang pendendam kembali untuk menjerumuskan alam semesta kembali ke kegelapan. Untuk mengalahkan musuh yang bahkan Odin dan Asgard tidak bisa tahan, Thor memulai perjalanan paling berbahaya dan pribadinya, dipaksa beraliansi dengan Loki yang berbahaya untuk menyelamatkan tidak hanya rakyatnya dan orang-orang yang dia cintai ... tetapi alam semesta kita sendiri.</dc:abstract>
 	<dc:director>Alan Taylor</dc:director>
 	<dc:writer>Christopher Yost, Christopher Markus, Stephen McFeely, Don Payne, Robert Rodat</dc:writer>
