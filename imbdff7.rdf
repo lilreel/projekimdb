@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:gen="http://www.tubeimdb/namespace#"
+	xmlns:dbo="https://dbpedia.org/ontology/"
+	xmlns:dbp="https://dbpedia.org/property/">
+
+<rdf:Description
+	rdf:about ="https://en.wikipedia.org/wiki/Furious_7">
+	<dc:title>Furious 7</dc:title>
+	<gen:img>https://static.wikia.nocookie.net/fastandfurious/images/a/aa/FF7_officialposter.jpg/revision/latest?cb=20200323092117</gen:img>
+	<dbo:abstract>Dominic Toretto (Vin Diesel) dan kawan-kawan dihantui oleh kasus lama yang berkaitan dengan Owen Shaw (Luke Evans), musuh mereka. Sang kakak, Deckard Shaw (Jason Statham), menutut balas atas perlakuan mereka terhadap sang adik. Deckard Shaw mencari seluruh kru Dominic dan berniat membunuh semuanya.
+	 Mengetahui hal tersebut, Dominic dan kawan-kawan berniat memburu balik Deckard sebelum mereka dihabisi satu persatu. Namun, cukup sulit mencari Deckard, mereka harus bekerja sama dengan pihak lain yang sama-sama ingin memburu Deckard Shaw.</dbo:abstract>
+	<dbo:director>James Wan</dbo:director>
+	<dbo:writer>Crish Morgan, Gary Scott Thompson</dbo:writer>
+	<dbp:starring>Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham, Chris "Ludacris Bridges, Tyrese Gibson"</dbp:starring>
+	<dc:genre>Action, Adventure, Thriller</dc:genre>
+	<dc:release_date>April 1, 2015</dc:release_date>
+	<dc:trailer>https://www.youtube.com/embed/Skpu5HaVkOc</dc:trailer>
+</rdf:Description>
+</rdf:RDF>
+
