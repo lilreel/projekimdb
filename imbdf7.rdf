@@ -13,7 +13,7 @@
 	<dbp:writer>Crish Morgan, Gary Scott Thompson</dbp:writer>
 	<dbp:starring>Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham, Chris "Ludacris Bridges, Tyrese Gibson"</dbp:starring>
 	<dc:genre>Action, Adventure, Thriller</dc:genre>
-	<dc:release_date>April 1, 2015</dc:release_date>
+	<dbp:released>April 1, 2015</dbp:released>
 	<dc:trailer>https://www.youtube.com/embed/Skpu5HaVkOc</dc:trailer>
 </rdf:Description>
 </rdf:RDF>
