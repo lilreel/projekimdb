@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dbp="http://dbpedia.org/property/">
+
+<rdf:Description
+	rdf:about ="https://en.wikipedia.org/wiki/John_Wick_(film)">
+	<dc:title>John Wick</dc:title>
+	<dc:img>https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg</dc:img>
+	<dbp:abstract>John Wick is an American neo-noir action thriller media franchise created by screenwriter Derek Kolstad and owned by Lionsgate. Keanu Reeves plays John Wick, a retired hitman who becomes active again in his quest for vengeance. The franchise began with the release of John Wick in 2014 followed by two sequels, John Wick: Chapter 2 on February 10, 2017, and John Wick: Chapter 3 – Parabellum on May 17, 2019. All three films were considered critical and commercial successes, with a collective gross of more than $587 million worldwide. A fourth installment, John Wick: Chapter 4, is filming and has a release date of May 27, 2022. A fifth installment is also in development, and was originally intended be shot back-to-back with the fourth film.</dbp:abstract>
+	<dbp:director>Chad Stahelski</dbp:director>
+	<dbp:writer>Derek Kolstad</dbp:writer>
+	<dbp:starring>Keanu Reeves, Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, Willem Dafoe</dbp:starring>
+	<dc:genre>Action, Neo-noir, Thriller, Crime Film</dc:genre>
+	<dbp:released>September 19, 2014 (Fantastic Fest), October 24, 2014 (United States)</dbp:released>
+	<dc:trailer>https://www.youtube.com/embed/2AUmvWm5ZDQ</dc:trailer>
+</rdf:Description>
+</rdf:RDF>
