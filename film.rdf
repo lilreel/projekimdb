@@ -1,0 +1,90 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dbp="http://dbpedia.org/property/">
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/Furious_7">
+		<dc:link>furious7.php</dc:link>
+		<dc:title>Furious 7</dc:title> 
+		<dc:img>https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_.jpg</dc:img>
+		<dbp:abstract>Dominic Toretto (Vin Diesel) dan kawan-kawan dihantui oleh kasus lama yang berkaitan dengan Owen Shaw (Luke Evans), musuh mereka. Sang kakak, Deckard Shaw (Jason Statham), menutut balas atas perlakuan mereka terhadap sang adik. Deckard Shaw mencari seluruh kru Dominic dan berniat membunuh semuanya. Mengetahui hal tersebut, Dominic dan kawan-kawan berniat memburu balik Deckard sebelum mereka dihabisi satu persatu. Namun, cukup sulit mencari Deckard, mereka harus bekerja sama dengan pihak lain yang sama-sama ingin memburu Deckard Shaw.</dbp:abstract>
+		<dbp:director>James Wan</dbp:director>
+		<dbp:writer>Crish Morgan, Gary Scott Thompson</dbp:writer>
+		<dbp:starring>Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham, Chris "Ludacris Bridges, Tyrese Gibson"</dbp:starring>
+		<dc:genre>Action, Adventure, Thriller</dc:genre>
+		<dbp:released>April 1, 2015</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/Skpu5HaVkOc</dc:trailer>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/Thor_(film)">
+		<dc:link>thor.php</dc:link>
+		<dc:title>Thor</dc:title>
+		<dc:img>https://www.themoviedb.org/t/p/original/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</dc:img>
+		<dbp:abstract>Petualangan epik THOR mencakup alam semesta Marvel dari Bumi masa kini hingga alam kosmik Asgard. Cerita berpusat kepada The Mighty Thor, seorang pejuang yang kuat namun arogan yang tindakan sembrononya menyalakan kembali perang kuno. Akibatnya, Thor dibuang ke Bumi di mana ia dipaksa untuk hidup di antara manusia. Ketika penjahat paling berbahaya di dunianya mengirimkan kekuatan tergelapnya untuk menyerang Bumi, Thor belajar apa yang diperlukan untuk menjadi pahlawan sejati.</dbp:abstract>
+		<dbp:director>Kenneth Branagh</dbp:director>
+		<dbp:writer>Ashley Edward Miller, Zack Stentz, Don Payne, J. Michael Straczynski, Mark Protosevich</dbp:writer>
+		<dbp:starring>Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston, Idris Elba, Stellan Skarsgård, Colm Feore</dbp:starring>
+		<dc:genre>Action, Adventure, Fantasy</dc:genre>
+		<dbp:released>April 17, 2011</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/JOddp-nlNvQ</dc:trailer>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/Thor:_The_Dark_World">
+		<dc:link>thor2.php</dc:link>
+		<dc:title>Thor : The Dark World</dc:title>
+		<dc:img>https://www.themoviedb.org/t/p/original/3x52Z04meRrXKmsb6uDjKe7tlBV.jpg</dc:img>
+		<dbp:abstract>Thor: The Dark World" dari Marvel melanjutkan petualangan Thor, the Mighty Avenger, saat ia berjuang untuk menyelamatkan Bumi dan semua Sembilan Alam dari musuh bayangan yang mendahului alam semesta itu sendiri. Setelah "Thor" Marvel dan "Marvel's The Avengers," Thor berjuang untuk memulihkan ketertiban di seluruh kosmos ... tetapi ras kuno yang dipimpin oleh Malekith yang pendendam kembali untuk menjerumuskan alam semesta kembali ke kegelapan. Untuk mengalahkan musuh yang bahkan Odin dan Asgard tidak bisa tahan, Thor memulai perjalanan paling berbahaya dan pribadinya, dipaksa beraliansi dengan Loki yang berbahaya untuk menyelamatkan tidak hanya rakyatnya dan orang-orang yang dia cintai ... tetapi alam semesta kita sendiri.</dbp:abstract>
+		<dbp:director>Alan Taylor</dbp:director>
+		<dbp:writer>Christopher Yost, Christopher Markus, Stephen McFeely, Don Payne, Robert Rodat</dbp:writer>
+		<dbp:starring>Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston, Idris Elba, Christopher Eccleston, Jaimie Alexander</dbp:starring>
+		<dc:genre>Action, Adventure, Fantasy</dc:genre>
+		<dbp:released>October 22, 2013</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/npvJ9FTgZbM</dc:trailer>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/The_Dark_Knight_(film)">
+		<dc:link>darkknight.php</dc:link>
+		<dc:title>The Dark Knight</dc:title>
+		<dc:img>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/826e20d747af639e2e2c3a95662283eabc6a6216a9bb74fc45cb1c29f2708b96._RI_V_TTW_.jpg</dc:img>
+		<dbp:abstract>Di saat Kota Gotham mulai ‘bersih’ dari kejahatan, tiba-tiba saja muncul serangkaian perampokan dan pembunuhan. Ternyata kejadian ini didalangi seorang penjahat yang berwajah aneh, Joker (Heath Ledger). Dalam melakukan perampokan, Joker terkenal tak ragu-ragu untuk menghabisi nyawa korban bahkan anak buahnya sendiri hanya untuk membuktikan, ia tak main-main. Dengan bantuan Letnan James Gordon (Gary Oldman), jaksa Harvey Dent (Aaron Eckhart), dan Rachel Dawes (Maggie Gyllenhaal), Batman kemudian berusaha melacak Joker ini.</dbp:abstract>
+		<dbp:director>Christopher Nolan</dbp:director>
+		<dbp:writer>Christopher Nolan, Jonathan Nolan, David S. Goyer</dbp:writer>
+		<dbp:starring>Gary Oldman, Heath Ledger, Morgan Freeman, Christian Bale, Michael Caine, Aaron Eckhart, Maggie Gyllenhaal</dbp:starring>
+		<dc:genre>Action, Superhero, Adventure, Drama, Thriller, Crime Film, Noir, Neo-noir, Mystery</dc:genre>
+		<dbp:released>July 14, 2008 (New York City), July 18, 2008 (United States), July 25, 2008 (United Kingdom)</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/EXeTwQWrcwY</dc:trailer>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation">
+		<dc:link>roguenation.php</dc:link>
+		<dc:title>Mission: Impossible – Rogue Nation</dc:title>
+		<dc:img>https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_.jpg</dc:img>
+		<dbp:abstract>Dengan IMF yang dibubarkan dan Ethan Hunt (Tom Cruise) sedang bersantai, ancaman baru - disebut Syndicate - segera muncul. Syndicate adalah jaringan operasi yang sangat terampil yang berdedikasi untuk membangun tatanan dunia baru melalui serangkaian serangan teroris yang meningkat. Dihadapkan dengan apa yang mungkin menjadi misi yang paling mustahil, Ethan mengumpulkan timnya dan bergabung dengan Ilsa Faust (Rebecca Ferguson), seorang agen Inggris yang ditolak yang mungkin atau mungkin bukan anggota dari "rogue nation" yang mematikan ini.</dbp:abstract>
+		<dbp:director>Christopher McQuarrie</dbp:director>
+		<dbp:writer>Christopher McQuarrie, Bruce Geller</dbp:writer>
+		<dbp:starring>Jeremy Renner, Rebecca Ferguson, Sean Harris, Tom Cruise, Ving Rhames, Alec Baldwin</dbp:starring>
+		<dc:genre>Action, Spy, Adventure, Thriller</dc:genre>
+		<dbp:released>July 23, 2015(Vienna State Opera); July 31, 2015(US)</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/pXwaKB7YOjw</dc:trailer>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about ="https://en.wikipedia.org/wiki/John_Wick_(film)">
+		<dc:link>johnwick.php</dc:link>
+		<dc:title>John Wick</dc:title>
+		<dc:img>https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg</dc:img>
+		<dbp:abstract>Film ini menceritakan tentang upaya balas dendam seorang mantan pembunuh bayaran. John yang diperankan oleh Keanu Reeves adalah seorang mantan pembunuh bayaran. Ia baru saja kehilangan istri tercintanya. Di tengah keadaan berduka itulah ia berusaha melakukan balas dendam penuh amarah terhadap gangster Rusia. Lantaran para mafia itu masuk ke rumah John untuk mencuri mobilnya bahkan juga membunuh Daisy anak anjing pemberian istrinya. John kemudian mendapat informasi dari temannya Aurelio (John Leguizamo) bahwa Losef adalah putra Viggo Tarasov (Michael Nyqvist), kepala mafia Rusia di New York. Karena merasa terusik, John memutuskan untuk melakukan balas dendam. Dari situlah sosok John sang pembunuh bayaran kembali bangkit.</dbp:abstract>
+		<dbp:director>Chad Stahelski</dbp:director>
+		<dbp:writer>Derek Kolstad</dbp:writer>
+		<dbp:starring>Keanu Reeves, Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, Willem Dafoe</dbp:starring>
+		<dc:genre>Action, Neo-noir, Thriller, Crime Film</dc:genre>
+		<dbp:released>September 19, 2014 (Fantastic Fest), October 24, 2014 (United States)</dbp:released>
+		<dc:trailer>https://www.youtube.com/embed/2AUmvWm5ZDQ</dc:trailer>
+	</rdf:Description>
+</rdf:RDF>
